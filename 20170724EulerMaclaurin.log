@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (sjis) (TeX Live 2015/W32TeX) (preloaded format=platex 2015.8.31)  25 JUL 2017 00:02
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (sjis) (TeX Live 2015/W32TeX) (preloaded format=platex 2015.8.31)  25 JUL 2017 02:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -404,14 +404,14 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 209.
  [1
 
-] [2] [3] [4] [5] [6] [7] [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 783.
- [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 783.
+] [2] [3] [4] [5] [6] [7] [8] [9]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 789.
+ [10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 789.
  (./20170724EulerMaclaurin.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 783.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 783.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 783.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 789.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 789.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 789.
  ) 
 Here is how much of TeX's memory you used:
  8165 strings out of 493779
@@ -422,4 +422,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  29i,14n,28p,241b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 20170724EulerMaclaurin.dvi (9 pages, 49192 bytes).
+Output written on 20170724EulerMaclaurin.dvi (10 pages, 49884 bytes).

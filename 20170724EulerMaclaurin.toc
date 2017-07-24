@@ -5,5 +5,5 @@
 \contentsline {subsection}{\numberline {1.4}ˆê”Ê‰»‚³‚ê‚½Bernoulli‘½€®‚Ì“Á’¥•t‚¯}{6}{subsection.1.4}
 \contentsline {section}{\numberline {2}Euler-Maclaurin‚Ì˜aŒö®‚Ìˆê”Ê‰»}{8}{section.2}
 \contentsline {subsection}{\numberline {2.1}Taylor‚Ì’è—}{9}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Euler-Maclaurin‚Ì˜aŒö®}{9}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}ˆê”Ê‰»‚³‚ê‚½Euler-Maclaurin-Taylor‚ÌŒö®}{9}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.2}Euler-Maclaurin‚Ì˜aŒö®}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}ˆê”Ê‰»‚³‚ê‚½Euler-Maclaurin-Taylor‚ÌŒö®}{10}{subsection.2.3}
