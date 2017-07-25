@@ -1,9 +1,8 @@
 \contentsline {section}{\numberline {1}Bernoulli‘½€®‚Ìˆê”Ê‰»}{1}{section.1}
-\contentsline {subsection}{\numberline {1.1}Bernoulli‘½€®}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.1}Bernoulli‘½€®}{2}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}À”’¼üã‚ÌŠm—¦•ª•z}{3}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Bernoulli‘½€®‚Ìˆê”Ê‰»}{5}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}ˆê”Ê‰»‚³‚ê‚½Bernoulli‘½€®‚Ì“Á’¥•t‚¯}{6}{subsection.1.4}
-\contentsline {section}{\numberline {2}Euler-Maclaurin‚Ì˜aŒö®‚Ìˆê”Ê‰»}{8}{section.2}
+\contentsline {subsection}{\numberline {1.3}Bernoulli‘½€®‚Ìˆê”Ê‰»}{6}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}ˆê”Ê‰»‚³‚ê‚½Bernoulli‘½€®‚Ì“Á’¥•t‚¯}{7}{subsection.1.4}
+\contentsline {section}{\numberline {2}Euler-Maclaurin‚Ì˜aŒö®‚Ìˆê”Ê‰»}{9}{section.2}
 \contentsline {subsection}{\numberline {2.1}Taylor‚Ì’è—}{9}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Euler-Maclaurin‚Ì˜aŒö®}{10}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}ˆê”Ê‰»‚³‚ê‚½Euler-Maclaurin-Taylor‚ÌŒö®}{10}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.2}ˆê”Ê‰»‚³‚ê‚½Euler-Maclaurin-Taylor‚ÌŒö®}{10}{subsection.2.2}
