@@ -6,3 +6,4 @@
 \contentsline {section}{\numberline {2}Euler-Maclaurin‚Ì˜aŒö®‚Ìˆê”Ê‰»}{9}{section.2}
 \contentsline {subsection}{\numberline {2.1}Taylor‚Ì’è—}{9}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}ˆê”Ê‰»‚³‚ê‚½Euler-Maclaurin-Taylor‚ÌŒö®}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}è—]€‚Ìâ‘Î’l‚Ìã‚©‚ç‚Ìr‚¢•]‰¿}{14}{subsection.2.3}
