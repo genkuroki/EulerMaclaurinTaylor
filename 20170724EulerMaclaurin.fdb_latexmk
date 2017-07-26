@@ -1,14 +1,14 @@
 # Fdb version 3
-["dvipdf"] 1501080143 "20170724EulerMaclaurin.dvi" "20170724EulerMaclaurin.pdf" "20170724EulerMaclaurin" 1501080158
-  "20170724EulerMaclaurin.dvi" 1501080143 89772 e8333369ef8373bd8aad9619c035e0ed "latex"
+["dvipdf"] 1501086532 "20170724EulerMaclaurin.dvi" "20170724EulerMaclaurin.pdf" "20170724EulerMaclaurin" 1501086533
+  "20170724EulerMaclaurin.dvi" 1501086532 89776 6e3e6ad56decbb6020a7e9cc4413fada "latex"
   (generated)
   "20170724EulerMaclaurin.pdf"
-["latex"] 1501080141 "20170724EulerMaclaurin.tex" "20170724EulerMaclaurin.dvi" "20170724EulerMaclaurin" 1501080158
-  "./20170724EulerMaclaurin.tex" 1501080139 46999 23ee59db0b9d990bd16ce8e18b141839 ""
-  "20170724EulerMaclaurin.aux" 1501080143 2996 b081bdcb84da8c60e3dea6e93c246027 ""
-  "20170724EulerMaclaurin.out" 1501080143 678 a2451168abdf276ce535ba4a8fd16e88 ""
-  "20170724EulerMaclaurin.tex" 1501080139 46999 23ee59db0b9d990bd16ce8e18b141839 ""
-  "20170724EulerMaclaurin.toc" 1501080143 800 431747716fe7887e38f7e654bb3c9ac9 ""
+["latex"] 1501086531 "20170724EulerMaclaurin.tex" "20170724EulerMaclaurin.dvi" "20170724EulerMaclaurin" 1501086533
+  "./20170724EulerMaclaurin.tex" 1501086530 47002 bbeb62d9d13cfc908d8c3782290b50a4 ""
+  "20170724EulerMaclaurin.aux" 1501086532 2996 b081bdcb84da8c60e3dea6e93c246027 ""
+  "20170724EulerMaclaurin.out" 1501086532 678 a2451168abdf276ce535ba4a8fd16e88 ""
+  "20170724EulerMaclaurin.tex" 1501086530 47002 bbeb62d9d13cfc908d8c3782290b50a4 ""
+  "20170724EulerMaclaurin.toc" 1501086532 800 431747716fe7887e38f7e654bb3c9ac9 ""
   "c:/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1441007750 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "c:/texlive/2015/texmf-dist/fonts/tfm/ptex/standard/goth10.tfm" 1441008100 1200 05cd01c8b39c63a2f8185f7e6e5b2300 ""
   "c:/texlive/2015/texmf-dist/fonts/tfm/ptex/standard/min10.tfm" 1441008100 1200 6411f221f4825dfcb18a17ab21ae7081 ""
@@ -108,8 +108,8 @@
   "c:/texlive/2015/texmf-var/web2c/eptex/platex.fmt" 1441008425 3997239 3d86a154233dfd8f9d91dc1d060c494a ""
   "c:/texlive/2015/texmf.cnf" 1441008353 497 7277663fd190ea5a4fe922b182dc7be2 ""
   (generated)
-  "20170724EulerMaclaurin.log"
-  "20170724EulerMaclaurin.dvi"
-  "20170724EulerMaclaurin.toc"
   "20170724EulerMaclaurin.out"
   "20170724EulerMaclaurin.aux"
+  "20170724EulerMaclaurin.toc"
+  "20170724EulerMaclaurin.log"
+  "20170724EulerMaclaurin.dvi"
