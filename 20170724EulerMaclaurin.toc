@@ -7,8 +7,10 @@
 \contentsline {subsection}{\numberline {2.1}Taylorの定理}{10}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}一般化されたEuler-Maclaurin-Taylorの公式}{11}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}剰余項の絶対値の上からの荒い評価}{15}{subsection.2.3}
-\contentsline {section}{\numberline {3}和公式の形式的導出}{17}{section.3}
-\contentsline {subsection}{\numberline {3.1}Euler-Maclaurin展開の形式的導出 (1)}{17}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Euler-Boole展開の形式的導出}{18}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Euler-Maclaurin展開の形式的導出 (2)}{18}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}一般化されたEuler-Maclaurin展開の形式的導出}{19}{subsection.3.4}
+\contentsline {subsection}{\numberline {2.4}剰余項を与える核函数の不定積分表示}{17}{subsection.2.4}
+\contentsline {section}{\numberline {3}和公式の形式的導出}{18}{section.3}
+\contentsline {subsection}{\numberline {3.1}Euler-Maclaurin展開の形式的導出 (1)}{18}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Euler-Boole展開の形式的導出}{19}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Euler-Maclaurin展開の形式的導出 (2)}{20}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}一般化されたEuler-Maclaurin展開の形式的導出}{20}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Simpsonの公式の誤差評価の形式的導出}{21}{subsection.3.5}

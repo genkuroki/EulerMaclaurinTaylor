@@ -195,5 +195,6 @@ INPUT c:/texlive/2015/texmf-dist/fonts/tfm/ptex/standard/tgoth10.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/ptex/standard/goth10.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/ptex/standard/tmin8.tfm
+INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
 INPUT 20170724EulerMaclaurin.aux
