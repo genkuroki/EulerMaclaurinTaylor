@@ -189,8 +189,8 @@ INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
-OUTPUT 20170724EulerMaclaurin.toc
 OUTPUT 20170724EulerMaclaurin.dvi
+OUTPUT 20170724EulerMaclaurin.toc
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/ptex/standard/tgoth10.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/ptex/standard/goth10.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
